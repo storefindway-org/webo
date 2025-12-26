@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"webo-database","appId":"1:451664357800:android:fcbdc75a970040a51d559d","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"webo-database","configurations":{"android":"1:451664357800:android:fcbdc75a970040a51d559d","web":"1:451664357800:web:a07e29592e3d0cfb1d559d"}}}}}}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451664357800",
+    "project_id": "webo-database",
+    "storage_bucket": "webo-database.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451664357800:android:fcbdc75a970040a51d559d",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoxW82_KNzVGjkGUUwa_KnQTd4rzM9c5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
